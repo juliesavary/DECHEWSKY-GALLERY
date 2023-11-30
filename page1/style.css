@@ -1,0 +1,592 @@
+.page-d-accueil {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.page-d-accueil .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1285px;
+  height: 2100px;
+  position: relative;
+}
+
+.page-d-accueil .overlap {
+  position: absolute;
+  width: 1193px;
+  height: 423px;
+  top: 971px;
+  left: 46px;
+  background-color: #f4f1e8;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.page-d-accueil .artistes {
+  position: absolute;
+  width: 1131px;
+  height: 396px;
+  top: 18px;
+  left: 33px;
+}
+
+.page-d-accueil .overlap-group {
+  position: absolute;
+  width: 1193px;
+  height: 423px;
+  top: 1516px;
+  left: 46px;
+  background-color: #f4f1e8;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.page-d-accueil .galerie {
+  position: absolute;
+  width: 504px;
+  height: 397px;
+  top: 20px;
+  left: 33px;
+}
+
+.page-d-accueil .img {
+  position: absolute;
+  width: 497px;
+  height: 397px;
+  top: 20px;
+  left: 667px;
+}
+
+.page-d-accueil .overlap-2 {
+  position: absolute;
+  width: 1010px;
+  height: 24px;
+  top: 53px;
+  left: 151px;
+}
+
+.page-d-accueil .rectangle {
+  width: 95px;
+  height: 24px;
+  left: 0;
+  background-color: #c03b5b4c;
+  position: absolute;
+  top: 0;
+}
+
+.page-d-accueil .barre-d-outils {
+  position: absolute;
+  width: 997px;
+  height: 24px;
+  top: 0;
+  left: 13px;
+}
+
+.page-d-accueil .text-wrapper {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.page-d-accueil .text-wrapper-2 {
+  height: 23px;
+  left: 255px;
+  font-family: "Raleway", Helvetica;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  top: 0;
+  font-weight: 400;
+  color: #000000;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.page-d-accueil .text-wrapper-3 {
+  position: absolute;
+  width: 152px;
+  top: 0;
+  left: 500px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.page-d-accueil .text-wrapper-4 {
+  position: absolute;
+  width: 308px;
+  top: 1px;
+  left: 681px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.page-d-accueil .overlap-3 {
+  position: absolute;
+  width: 1573px;
+  height: 523px;
+  top: 284px;
+  left: -138px;
+}
+
+.page-d-accueil .rectangle-2 {
+  width: 1315px;
+  height: 523px;
+  left: 100px;
+  background-color: #f4f1e8;
+  position: absolute;
+  top: 0;
+}
+
+.page-d-accueil .coup-de-coeur {
+  position: absolute;
+  width: 727px;
+  height: 400px;
+  top: 108px;
+  left: 433px;
+}
+
+.page-d-accueil .un-tableau-ne-vit {
+  position: absolute;
+  width: 1573px;
+  top: 22px;
+  left: 0;
+  text-shadow: 0px 4px 4px #ce0b9740;
+  font-family: "Rubik", Helvetica;
+  font-weight: 300;
+  font-style: italic;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.page-d-accueil .overlap-4 {
+  position: absolute;
+  width: 1324px;
+  height: 96px;
+  top: 2006px;
+  left: -35px;
+}
+
+.page-d-accueil .barre-d-infos {
+  position: absolute;
+  width: 1207px;
+  height: 50px;
+  top: 22px;
+  left: 0;
+}
+
+.page-d-accueil .overlap-group-2 {
+  position: absolute;
+  width: 461px;
+  height: 44px;
+  top: 6px;
+  left: 0;
+}
+
+.page-d-accueil .text-wrapper-5 {
+  position: absolute;
+  width: 238px;
+  top: 0;
+  left: 0;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.page-d-accueil .text-wrapper-6 {
+  position: absolute;
+  width: 238px;
+  top: 0;
+  left: 223px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.page-d-accueil .p {
+  position: absolute;
+  width: 285px;
+  top: 6px;
+  left: 541px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.page-d-accueil .overlap-5 {
+  position: absolute;
+  width: 285px;
+  height: 35px;
+  top: 4px;
+  left: 914px;
+}
+
+.page-d-accueil .text-wrapper-7 {
+  position: absolute;
+  width: 285px;
+  top: 0;
+  left: 0;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.page-d-accueil .mail {
+  position: absolute;
+  width: 30px;
+  height: 20px;
+  top: 0;
+  left: 39px;
+  object-fit: cover;
+}
+
+.page-d-accueil .plan {
+  position: absolute;
+  width: 21px;
+  height: 20px;
+  top: 0;
+  left: 510px;
+  object-fit: cover;
+}
+
+.page-d-accueil .line {
+  height: 3px;
+  top: 0;
+  left: 35px;
+  position: absolute;
+  width: 1285px;
+  object-fit: cover;
+}
+
+.page-d-accueil .barre-du-bas {
+  position: absolute;
+  width: 1289px;
+  height: 40px;
+  top: 56px;
+  left: 35px;
+}
+
+.page-d-accueil .overlap-6 {
+  position: relative;
+  width: 1285px;
+  height: 40px;
+  background-color: #000000;
+}
+
+.page-d-accueil .mentions-lgales {
+  position: absolute;
+  width: 201px;
+  height: 28px;
+  top: 10px;
+  left: 14px;
+}
+
+.page-d-accueil .text-wrapper-8 {
+  position: absolute;
+  width: 101px;
+  height: 22px;
+  top: 13px;
+  left: 254px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.page-d-accueil .line-2 {
+  position: absolute;
+  width: 1px;
+  height: 26px;
+  top: 5px;
+  left: 230px;
+  object-fit: cover;
+}
+
+.page-d-accueil .element {
+  position: absolute;
+  width: 37px;
+  height: 63px;
+  top: 2px;
+  left: 1283px;
+}
+
+.page-d-accueil .barre-du-haut {
+  position: absolute;
+  width: 1312px;
+  height: 44px;
+  top: 0;
+  left: 0;
+}
+
+.page-d-accueil .overlap-7 {
+  position: relative;
+  width: 1308px;
+  height: 44px;
+}
+
+.page-d-accueil .linkedin {
+  position: absolute;
+  width: 47px;
+  height: 39px;
+  top: 0;
+  left: 896px;
+  object-fit: cover;
+}
+
+.page-d-accueil .rectangle-3 {
+  width: 1308px;
+  height: 40px;
+  left: 0;
+  background-color: #000000;
+  position: absolute;
+  top: 0;
+}
+
+.page-d-accueil .fb {
+  position: absolute;
+  width: 49px;
+  height: 39px;
+  top: 0;
+  left: 943px;
+  object-fit: cover;
+}
+
+.page-d-accueil .ig {
+  position: absolute;
+  width: 58px;
+  height: 39px;
+  top: 0;
+  left: 992px;
+  object-fit: cover;
+}
+
+.page-d-accueil .text-wrapper-9 {
+  position: absolute;
+  width: 207px;
+  height: 44px;
+  top: 0;
+  left: 1057px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.page-d-accueil .text-wrapper-10 {
+  position: absolute;
+  width: 399px;
+  top: 7px;
+  left: 14px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.page-d-accueil .linkedin-2 {
+  position: absolute;
+  width: 47px;
+  height: 39px;
+  top: 1px;
+  left: 898px;
+  object-fit: cover;
+}
+
+.page-d-accueil .overlap-8 {
+  position: absolute;
+  width: 1319px;
+  height: 165px;
+  top: 94px;
+  left: -25px;
+}
+
+.page-d-accueil .LOGO {
+  position: absolute;
+  width: 1319px;
+  height: 163px;
+  top: 0;
+  left: 0;
+}
+
+.page-d-accueil .overlap-9 {
+  position: relative;
+  width: 1285px;
+  height: 168px;
+  top: -1px;
+  left: 25px;
+}
+
+.page-d-accueil .text-wrapper-11 {
+  position: absolute;
+  width: 745px;
+  top: 3px;
+  left: 184px;
+  font-family: "Ramabhadra", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.page-d-accueil .text-wrapper-12 {
+  position: absolute;
+  width: 188px;
+  top: 88px;
+  left: 619px;
+  font-family: "Kristi", Helvetica;
+  font-weight: 400;
+  color: #c03b5b;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.page-d-accueil .line-3 {
+  height: 9px;
+  top: 159px;
+  left: 0;
+  position: absolute;
+  width: 1285px;
+  object-fit: cover;
+}
+
+.page-d-accueil .line-4 {
+  height: 10px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 1285px;
+  object-fit: cover;
+}
+
+.page-d-accueil .element-2 {
+  position: absolute;
+  width: 109px;
+  height: 165px;
+  top: 0;
+  left: 797px;
+}
+
+.page-d-accueil .overlap-10 {
+  position: absolute;
+  width: 1297px;
+  height: 55px;
+  top: 874px;
+  left: 6px;
+}
+
+.page-d-accueil .rectangle-4 {
+  position: absolute;
+  width: 1297px;
+  height: 54px;
+  top: 1px;
+  left: 0;
+  background-color: #c03b5b4c;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.page-d-accueil .text-wrapper-13 {
+  width: 497px;
+  left: 404px;
+  font-family: "Ramabhadra", Helvetica;
+  font-size: 32px;
+  position: absolute;
+  top: 0;
+  font-weight: 400;
+  color: #000000;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.page-d-accueil .overlap-11 {
+  position: absolute;
+  width: 1297px;
+  height: 61px;
+  top: 1436px;
+  left: 6px;
+}
+
+.page-d-accueil .text-wrapper-14 {
+  position: absolute;
+  top: 0;
+  left: 403px;
+  font-family: "Ramabhadra", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+    @media only screen and (max-width: 600px) {
+        .container, .header, .footer, .main-content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+    }
+
+    @media only screen and (min-width: 601px) and (max-width: 1024px) {
+        .container, .header, .footer, .main-content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+    }
+    

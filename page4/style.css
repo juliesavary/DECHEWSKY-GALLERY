@@ -1,0 +1,619 @@
+.newsletter {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.newsletter .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1285px;
+  height: 2100px;
+  position: relative;
+}
+
+.newsletter .overlap {
+  position: absolute;
+  width: 1311px;
+  height: 1571px;
+  top: 274px;
+  left: -6px;
+}
+
+.newsletter .rectangle {
+  position: absolute;
+  width: 1044px;
+  height: 174px;
+  top: 168px;
+  left: 128px;
+  background-color: #f4f1e8;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.newsletter .formulaire {
+  position: absolute;
+  width: 1311px;
+  height: 1571px;
+  top: 0;
+  left: 0;
+}
+
+.newsletter .text-wrapper {
+  position: absolute;
+  width: 1079px;
+  top: 212px;
+  left: 110px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.newsletter .line {
+  width: 1143px;
+  height: 9px;
+  top: 448px;
+  left: 78px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.newsletter .overlap-group {
+  position: absolute;
+  width: 1297px;
+  height: 61px;
+  top: 0;
+  left: 0;
+}
+
+.newsletter .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 520px;
+  font-family: "Ramabhadra", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.newsletter .rectangle-2 {
+  position: absolute;
+  width: 1297px;
+  height: 54px;
+  top: 2px;
+  left: 0;
+  background-color: #c03b5b4c;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.newsletter .overlap-2 {
+  position: absolute;
+  width: 1090px;
+  height: 962px;
+  top: 609px;
+  left: 109px;
+  background-color: #f4f1e8;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.newsletter .text-wrapper-3 {
+  position: absolute;
+  top: 456px;
+  left: 117px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.newsletter .rectangle-3 {
+  position: absolute;
+  width: 845px;
+  height: 35px;
+  top: 207px;
+  left: 117px;
+  background-color: #c03b5b33;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.newsletter .rectangle-4 {
+  position: absolute;
+  width: 845px;
+  height: 35px;
+  top: 376px;
+  left: 117px;
+  background-color: #c03b5b33;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.newsletter .rectangle-5 {
+  position: absolute;
+  width: 845px;
+  height: 35px;
+  top: 545px;
+  left: 117px;
+  background-color: #c03b5b33;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.newsletter .div-wrapper {
+  position: absolute;
+  width: 356px;
+  height: 113px;
+  top: 714px;
+  left: 373px;
+  background-color: #c03b5b4c;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.newsletter .text-wrapper-4 {
+  position: absolute;
+  top: 23px;
+  left: 53px;
+  font-family: "Ramabhadra", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.newsletter .text-wrapper-5 {
+  position: absolute;
+  top: 118px;
+  left: 117px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.newsletter .text-wrapper-6 {
+  position: absolute;
+  top: 287px;
+  left: 117px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.newsletter .text-wrapper-7 {
+  position: absolute;
+  top: 495px;
+  left: 432px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Ramabhadra", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.newsletter .overlap-3 {
+  position: absolute;
+  width: 1324px;
+  height: 96px;
+  top: 2006px;
+  left: -35px;
+}
+
+.newsletter .barre-d-infos {
+  position: absolute;
+  width: 1207px;
+  height: 50px;
+  top: 22px;
+  left: 0;
+}
+
+.newsletter .overlap-4 {
+  position: absolute;
+  width: 461px;
+  height: 44px;
+  top: 6px;
+  left: 0;
+}
+
+.newsletter .text-wrapper-8 {
+  position: absolute;
+  width: 238px;
+  top: 0;
+  left: 0;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.newsletter .text-wrapper-9 {
+  position: absolute;
+  width: 238px;
+  top: 0;
+  left: 223px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.newsletter .p {
+  position: absolute;
+  width: 285px;
+  top: 6px;
+  left: 541px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.newsletter .overlap-group-2 {
+  position: absolute;
+  width: 285px;
+  height: 35px;
+  top: 4px;
+  left: 914px;
+}
+
+.newsletter .text-wrapper-10 {
+  position: absolute;
+  width: 285px;
+  top: 0;
+  left: 0;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.newsletter .mail {
+  position: absolute;
+  width: 30px;
+  height: 20px;
+  top: 0;
+  left: 39px;
+  object-fit: cover;
+}
+
+.newsletter .plan {
+  position: absolute;
+  width: 21px;
+  height: 20px;
+  top: 0;
+  left: 510px;
+  object-fit: cover;
+}
+
+.newsletter .barre-du-bas {
+  width: 1295px;
+  height: 96px;
+  left: 29px;
+  position: absolute;
+  top: 0;
+}
+
+.newsletter .overlap-5 {
+  position: relative;
+  width: 1285px;
+  height: 96px;
+  left: 6px;
+}
+
+.newsletter .rectangle-6 {
+  position: absolute;
+  width: 1285px;
+  height: 40px;
+  top: 56px;
+  left: 0;
+  background-color: #000000;
+}
+
+.newsletter .img {
+  width: 1px;
+  height: 26px;
+  top: 62px;
+  left: 229px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.newsletter .mentions-lgales {
+  position: absolute;
+  width: 201px;
+  height: 28px;
+  top: 67px;
+  left: 14px;
+}
+
+.newsletter .text-wrapper-11 {
+  position: absolute;
+  width: 101px;
+  height: 22px;
+  top: 70px;
+  left: 254px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.newsletter .element {
+  position: absolute;
+  width: 37px;
+  height: 63px;
+  top: 2px;
+  left: 1248px;
+}
+
+.newsletter .line-2 {
+  position: absolute;
+  width: 1285px;
+  height: 3px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.newsletter .barre-d-outils {
+  position: absolute;
+  width: 997px;
+  height: 24px;
+  top: 53px;
+  left: 164px;
+}
+
+.newsletter .text-wrapper-12 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.newsletter .text-wrapper-13 {
+  position: absolute;
+  height: 23px;
+  top: 0;
+  left: 255px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.newsletter .text-wrapper-14 {
+  position: absolute;
+  width: 152px;
+  top: 0;
+  left: 500px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.newsletter .text-wrapper-15 {
+  position: absolute;
+  width: 308px;
+  top: 1px;
+  left: 681px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.newsletter .barre-du-haut {
+  width: 1312px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.newsletter .overlap-6 {
+  position: relative;
+  width: 1308px;
+  height: 44px;
+}
+
+.newsletter .linkedin {
+  top: 0;
+  left: 896px;
+  position: absolute;
+  width: 47px;
+  height: 39px;
+  object-fit: cover;
+}
+
+.newsletter .rectangle-7 {
+  position: absolute;
+  width: 1308px;
+  height: 40px;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+}
+
+.newsletter .fb {
+  position: absolute;
+  width: 49px;
+  height: 39px;
+  top: 0;
+  left: 943px;
+  object-fit: cover;
+}
+
+.newsletter .ig {
+  position: absolute;
+  width: 58px;
+  height: 39px;
+  top: 0;
+  left: 992px;
+  object-fit: cover;
+}
+
+.newsletter .text-wrapper-16 {
+  position: absolute;
+  width: 207px;
+  height: 44px;
+  top: 0;
+  left: 1057px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.newsletter .text-wrapper-17 {
+  position: absolute;
+  width: 399px;
+  top: 7px;
+  left: 14px;
+  font-family: "Raleway", Helvetica;
+  font-weight: 400;
+  color: #c03b5b;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.newsletter .linkedin-2 {
+  top: 1px;
+  left: 898px;
+  position: absolute;
+  width: 47px;
+  height: 39px;
+  object-fit: cover;
+}
+
+.newsletter .LOGO {
+  position: absolute;
+  width: 1319px;
+  height: 163px;
+  top: 94px;
+  left: -25px;
+}
+
+.newsletter .overlap-7 {
+  position: relative;
+  width: 1285px;
+  height: 168px;
+  top: -1px;
+  left: 25px;
+}
+
+.newsletter .text-wrapper-18 {
+  position: absolute;
+  width: 745px;
+  top: 3px;
+  left: 184px;
+  font-family: "Ramabhadra", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.newsletter .text-wrapper-19 {
+  position: absolute;
+  width: 188px;
+  top: 88px;
+  left: 619px;
+  font-family: "Kristi", Helvetica;
+  font-weight: 400;
+  color: #c03b5b;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.newsletter .line-3 {
+  width: 1285px;
+  height: 9px;
+  top: 159px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.newsletter .line-4 {
+  width: 1285px;
+  height: 10px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.newsletter .element-2 {
+  position: absolute;
+  width: 109px;
+  height: 165px;
+  top: 1px;
+  left: 772px;
+}
